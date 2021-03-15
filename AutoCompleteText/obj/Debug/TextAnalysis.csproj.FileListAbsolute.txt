@@ -1,0 +1,10 @@
+H:\6_sem\text_analizer\AutoCompleteText\bin\Debug\HarryPotterText.txt
+H:\6_sem\text_analizer\AutoCompleteText\bin\Debug\TextAnalysis.exe.config
+H:\6_sem\text_analizer\AutoCompleteText\bin\Debug\TextAnalysis.exe
+H:\6_sem\text_analizer\AutoCompleteText\bin\Debug\TextAnalysis.pdb
+H:\6_sem\text_analizer\AutoCompleteText\bin\Debug\nunit.framework.dll
+H:\6_sem\text_analizer\AutoCompleteText\bin\Debug\nunitlite.dll
+H:\6_sem\text_analizer\AutoCompleteText\obj\Debug\TextAnalysis.csproj.CoreCompileInputs.cache
+H:\6_sem\text_analizer\AutoCompleteText\obj\Debug\TextAnalysis.csproj.CopyComplete
+H:\6_sem\text_analizer\AutoCompleteText\obj\Debug\TextAnalysis.exe
+H:\6_sem\text_analizer\AutoCompleteText\obj\Debug\TextAnalysis.pdb
