@@ -91,7 +91,7 @@ namespace TextAnalysis
                         if (val > max) { max = val; }
                     }
 
-                    string current_tail = "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz";
+                    string current_tail = "яяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяя";
                     foreach(var pair in freq[head])
                     {
                         if (pair.Value == max && string.CompareOrdinal(pair.Key, current_tail) < 0)
