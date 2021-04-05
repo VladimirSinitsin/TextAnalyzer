@@ -19,3 +19,14 @@ D:\my projects\text_analyzer\obj\Debug\TextAnalysis.csproj.CoreCompileInputs.cac
 D:\my projects\text_analyzer\obj\Debug\TextAnalysis.csproj.CopyComplete
 D:\my projects\text_analyzer\obj\Debug\TextAnalysis.exe
 D:\my projects\text_analyzer\obj\Debug\TextAnalysis.pdb
+H:\6_sem\text_analizer\bin\Debug\HarryPotterText.txt
+H:\6_sem\text_analizer\bin\Debug\TextAnalysis.exe.config
+H:\6_sem\text_analizer\bin\Debug\TextAnalysis.exe
+H:\6_sem\text_analizer\bin\Debug\TextAnalysis.pdb
+H:\6_sem\text_analizer\bin\Debug\nunit.framework.dll
+H:\6_sem\text_analizer\bin\Debug\nunitlite.dll
+H:\6_sem\text_analizer\obj\Debug\TextAnalysis.csprojAssemblyReference.cache
+H:\6_sem\text_analizer\obj\Debug\TextAnalysis.csproj.CoreCompileInputs.cache
+H:\6_sem\text_analizer\obj\Debug\TextAnalysis.csproj.CopyComplete
+H:\6_sem\text_analizer\obj\Debug\TextAnalysis.exe
+H:\6_sem\text_analizer\obj\Debug\TextAnalysis.pdb
